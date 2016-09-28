@@ -1,0 +1,5 @@
+*.box
+.bundle/
+.vagrant/
+packer_cache/
+centos-72-kvm/
